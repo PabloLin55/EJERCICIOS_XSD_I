@@ -1,10 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?> 
 <!-- 
 Nombre: Pablo Lin 
 Curso: 1DAW
 Fecha: 19/04/25
 Ejercicio: Ejercicio6
 -->
-<?xml version="1.0" encoding="UTF-8"?> 
 <fichas xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
 xsi:noNamespaceSchemaLocation="fichas.xsd"> 
     <ficha> 
